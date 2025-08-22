@@ -70,9 +70,9 @@ The model is trained on both **unscaled** and **scaled** data to compare perform
 
 Install required Python libraries before running the notebook:
 
-pandas
-numpy
-scikit-learn
+- pandas
+- numpy
+- scikit-learn
 
 ---
 
