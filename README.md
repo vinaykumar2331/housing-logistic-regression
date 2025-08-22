@@ -76,17 +76,17 @@ scikit-learn
 
 ---
 
-🏷️ Tags
+## 🏷️ Tags
 
-logistic-regression
-housing-data
-machine-learning
-binary-classification
-scikit-learn
-feature-scaling
-standardscaler
-data-analysis
-predictive-modeling
-python
-real-estate
-classification-model
+`logistic-regression`
+`housing-data`
+`machine-learning`
+`binary-classification`
+`scikit-learn`
+`feature-scaling`
+`standardscaler`
+`data-analysis`
+`predictive-modeling`
+`python`
+`real-estate`
+`classification-model`
